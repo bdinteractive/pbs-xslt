@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="asset-output.xsl" ?>
+<root>
+  <Program>
+    <Type>Episode</Type>
+    <Title>POV</Title>
+    <Description></Description>
+    <Runtime>60</Runtime>
+    <Genre>Public Affairs</Genre>
+    <PartNum></PartNum>
+    <qual></qual>
+    <ProductionCompany></ProductionCompany>
+    <show>
+      <Show>
+        <origAirDate>10/31/2016 10:00:00 PM</origAirDate>
+        <tvRating>TV-PG</tvRating>
+        <tvSubRating></tvSubRating>
+      </Show>
+    </show>
+    <schedule>
+      <subtitled>False</subtitled>
+      <SAP>False</SAP>
+      <Linear>
+        <airDateTime>11/1/2016 1:00:00 AM</airDateTime>
+        <duration>3406</duration>
+      </Linear>
+    </schedule>
+  </Program>
+</root>

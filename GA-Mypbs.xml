@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="mypbs.xsl" ?>
+<root>
+  <Program>
+    <Type>Episode</Type>
+    <Title>Indian Summers Season 2 on Masterpiece</Title>
+    <Description></Description>
+    <Runtime>60</Runtime>
+    <Genre>Drama</Genre>
+    <PartNum>7</PartNum>
+    <qual>CCENG7</qual>
+    <ProductionCompany>WGBH</ProductionCompany>
+    <show>
+      <Show>
+        <origAirDate>10/30/2016 10:00:00 PM</origAirDate>
+        <tvRating>TV-PG</tvRating>
+        <tvSubRating></tvSubRating>
+      </Show>
+    </show>
+    <schedule>
+      <subtitled>False</subtitled>
+      <SAP>False</SAP>
+      <Linear>
+        <airDateTime>11/1/2016 5:00:00 AM</airDateTime>
+        <duration>3406</duration>
+      </Linear>
+    </schedule>
+  </Program>
+  <Program>
+    <Type>Episode</Type>
+    <Title>Poldark Season 2 on Masterpiece</Title>
+    <Description></Description>
+    <Runtime>60</Runtime>
+    <Genre>Drama</Genre>
+    <PartNum>5</PartNum>
+    <qual>CCENG7</qual>
+    <ProductionCompany>WGBH</ProductionCompany>
+    <show>
+      <Show>
+        <origAirDate>10/30/2016 9:00:00 PM</origAirDate>
+        <tvRating>TV-PG</tvRating>
+        <tvSubRating></tvSubRating>
+      </Show>
+    </show>
+    <schedule>
+      <subtitled>False</subtitled>
+      <SAP>False</SAP>
+      <Linear>
+        <airDateTime>11/1/2016 4:00:00 AM</airDateTime>
+        <duration>3406</duration>
+      </Linear>
+    </schedule>
+  </Program>
+  <Program>
+    <Type>Episode</Type>
+    <Title>Durrells in Corfu on Masterpiece; The</Title>
+    <Description></Description>
+    <Runtime>60</Runtime>
+    <Genre>Drama</Genre>
+    <PartNum>3</PartNum>
+    <qual>CCENG7</qual>
+    <ProductionCompany>WGBH</ProductionCompany>
+    <show>
+      <Show>
+        <origAirDate>10/30/2016 8:00:00 PM</origAirDate>
+        <tvRating>TV-PG</tvRating>
+        <tvSubRating></tvSubRating>
+      </Show>
+    </show>
+    <schedule>
+      <subtitled>False</subtitled>
+      <SAP>False</SAP>
+      <Linear>
+        <airDateTime>11/1/2016 3:00:00 AM</airDateTime>
+        <duration>3406</duration>
+      </Linear>
+    </schedule>
+  </Program>
+  <Program>
+    <Type>Episode</Type>
+    <Title>Antiques Roadshow</Title>
+    <Description>Objects fit for stately homes: Lord Byron portrait, Louis Vuitton steamer trunk, Tiffany necklace.</Description>
+    <Runtime>60</Runtime>
+    <Genre>Cultural</Genre>
+    <PartNum></PartNum>
+    <qual>CCENG7</qual>
+    <ProductionCompany>WGBH Educational Foundation</ProductionCompany>
+    <show>
+      <Show>
+        <origAirDate>12/30/2014 2:00:00 AM</origAirDate>
+        <tvRating>TV-G</tvRating>
+        <tvSubRating></tvSubRating>
+      </Show>
+    </show>
+    <schedule>
+      <subtitled>False</subtitled>
+      <SAP>False</SAP>
+      <Linear>
+        <airDateTime>11/1/2016 2:00:00 AM</airDateTime>
+        <duration>3406</duration>
+      </Linear>
+    </schedule>
+  </Program>
+  <Program>
+    <Type>Episode</Type>
+    <Title>Tavis Smiley</Title>
+    <Description></Description>
+    <Runtime>30</Runtime>
+    <Genre>Public Affairs</Genre>
+    <PartNum></PartNum>
+    <qual>CCENG6</qual>
+    <ProductionCompany>The Smiley Group, Inc.</ProductionCompany>
+    <show>
+      <Show>
+        <origAirDate>10/29/2016 12:00:00 AM</origAirDate>
+        <tvRating>E</tvRating>
+        <tvSubRating></tvSubRating>
+      </Show>
+    </show>
+    <schedule>
+      <subtitled>False</subtitled>
+      <SAP>False</SAP>
+      <Linear>
+        <airDateTime>11/1/2016 12:30:00 AM</airDateTime>
+        <duration>1606</duration>
+      </Linear>
+    </schedule>
+  </Program>
+  <Program>
+    <Type>Episode</Type>
+    <Title>Tavis Smiley</Title>
+    <Description></Description>
+    <Runtime>30</Runtime>
+    <Genre>Public Affairs</Genre>
+    <PartNum></PartNum>
+    <qual>CCENG6</qual>
+    <ProductionCompany>The Smiley Group, Inc.</ProductionCompany>
+    <show>
+      <Show>
+        <origAirDate>11/1/2016 12:00:00 AM</origAirDate>
+        <tvRating>E</tvRating>
+        <tvSubRating></tvSubRating>
+      </Show>
+    </show>
+    <schedule>
+      <subtitled>False</subtitled>
+      <SAP>False</SAP>
+      <Linear>
+        <airDateTime>11/1/2016 12:00:00 AM</airDateTime>
+        <duration>1606</duration>
+      </Linear>
+    </schedule>
+  </Program>
+  <Program>
+    <Type>Episode</Type>
+    <Title>Antiques Roadshow</Title>
+    <Description></Description>
+    <Runtime>60</Runtime>
+    <Genre>Cultural</Genre>
+    <PartNum></PartNum>
+    <qual>CCENG7</qual>
+    <ProductionCompany>WGBH Educational Foundation</ProductionCompany>
+    <show>
+      <Show>
+        <origAirDate>10/31/2016 8:00:00 PM</origAirDate>
+        <tvRating>TV-G</tvRating>
+        <tvSubRating></tvSubRating>
+      </Show>
+    </show>
+    <schedule>
+      <subtitled>False</subtitled>
+      <SAP>False</SAP>
+      <Linear>
+        <airDateTime>11/1/2016 1:00:00 AM</airDateTime>
+        <duration>3406</duration>
+      </Linear>
+    </schedule>
+  </Program>
+</root>
